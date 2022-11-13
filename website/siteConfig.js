@@ -12,10 +12,10 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Tonya A. Melvin-Bryant', // Title for your website.
-    tagline: 'Continuously improving, aspiring technologist.',
+    title: 'Lelah Jones-Olender', // Title for your website.
+    tagline: 'Student and fresher with HCLTech working with SAP PI.',
     profilePhoto: 'img/profile.png',
-    url: 'https://tamelvinbryant.github.io', // Your website URL
+    url: 'https://lelahjones.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
@@ -23,7 +23,7 @@ const siteConfig = {
 
     // Used for publishing and more
     projectName: 'tech-portfolio',
-    organizationName: 'tamelvinbryant',
+    organizationName: 'lelahjones',
     // For top-level user or org sites, the organization is still the same.
     // e.g., for the https://JoelMarcey.github.io site, it would be set like...
     //   organizationName: 'JoelMarcey'
@@ -48,7 +48,7 @@ const siteConfig = {
     },
 
     // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-    copyright: `Copyright © ${new Date().getFullYear()} Your Name Here`,
+    copyright: `Copyright © ${new Date().getFullYear()} Lelah Jones-Olender`,
 
     highlight: {
         // Highlight.js theme to use for syntax highlighting in code blocks.
@@ -67,9 +67,9 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'tonya-melvin-bryant-ab92b855',
-        twitter: 'tonyamccu',
-        github: 'tamelvinbryant',
+        linkedin: 'lelah-jones-olender',
+        twitter: 'itslelahjones',
+        github: 'lelahjones',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
